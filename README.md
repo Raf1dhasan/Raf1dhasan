@@ -22,13 +22,13 @@ I'm diving deeper into **DevOps practices**, mastering **Docker/Kubernetes**, an
 
 ### 📬 Let’s Connect!  
 If you're looking for a driven and versatile developer to join your team, feel free to reach out!  
-- **Email:** your.email@example.com  
+- **Email:** rafidhasan202@gmail.com  
 - **Portfolio:** [your-portfolio-link](#)  
-- **LinkedIn:** [linkedin.com/in/your-profile](#)  
+- **LinkedIn:** linkedin.com/in/your-profile]](https://www.linkedin.com/in/rafidhasan-)(#)  
 
----
 
-Feel free to customize this further with any specific interests, tools, or achievements you'd like to highlight!</h3>
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raf1dhasan&label=Profile%20views&color=0e75b6&style=flat" alt="raf1dhasan" /> </p>
 
