@@ -24,7 +24,7 @@ I'm diving deeper into **DevOps practices**, mastering **Docker/Kubernetes**, an
 If you're looking for a driven and versatile developer to join your team, feel free to reach out!  
 - **Email:** rafidhasan202@gmail.com  
 - **Portfolio:** [your-portfolio-link](#)  
-- **LinkedIn:** linkedin.com/in/your-profile]](https://www.linkedin.com/in/rafidhasan-)(#)  
+- **LinkedIn:** https://www.linkedin.com/in/rafidhasan-(#)  
 
 
 
