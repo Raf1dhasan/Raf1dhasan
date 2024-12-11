@@ -1,10 +1,10 @@
 preview
 <h1 align="center">Hi 👋, I'm Rafid Hasan</h1>
-<h3 align="center">Here’s a polished GitHub bio tailored to your profile:
+<h3 align="center">
 
 ---
 
-### Hi there! 👋  
+ 
 I'm a **4th-year Bachelor of Computing Science student** at **Thompson Rivers University**, British Columbia, Canada. I'm passionate about leveraging technology to solve real-world problems and am actively seeking **co-op opportunities** to contribute to innovative projects while expanding my professional expertise.
 
 ### 🌟 What I Bring to the Table:  
