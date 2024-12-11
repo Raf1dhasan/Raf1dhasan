@@ -8,7 +8,7 @@
 I'm a **4th-year Bachelor of Computing Science student** at **Thompson Rivers University**, British Columbia, Canada. I'm passionate about leveraging technology to solve real-world problems and am actively seeking **co-op opportunities** to contribute to innovative projects while expanding my professional expertise.
 
 ### 🌟 What I Bring to the Table:  
-- **Programming Polyglot:** Proficient in a wide array of programming languages including **Python**, **Java**, **C++**, **JavaScript**, **Ruby**, **Go**, and more. I adapt quickly to new tools and frameworks.  
+- **Programming Polyglot:** Proficient in a wide array of programming languages including **Python**, **Java**, **C++**, **JavaScript**, **HTML**, **CSS**, and more. I adapt quickly to new tools and frameworks.  
 - **Full-Stack Developer:** Experienced in designing and developing responsive, user-friendly websites and intuitive mobile applications.  
 - **Creative Problem Solver:** I thrive on tackling complex challenges with efficient and scalable solutions.  
 
