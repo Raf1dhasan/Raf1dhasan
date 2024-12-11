@@ -1,6 +1,34 @@
 preview
 <h1 align="center">Hi 👋, I'm Rafid Hasan</h1>
-<h3 align="center">A passionate CS Student</h3>
+<h3 align="center">Here’s a polished GitHub bio tailored to your profile:
+
+---
+
+### Hi there! 👋  
+I'm a **4th-year Bachelor of Computing Science student** at **Thompson Rivers University**, British Columbia, Canada. I'm passionate about leveraging technology to solve real-world problems and am actively seeking **co-op opportunities** to contribute to innovative projects while expanding my professional expertise.
+
+### 🌟 What I Bring to the Table:  
+- **Programming Polyglot:** Proficient in a wide array of programming languages including **Python**, **Java**, **C++**, **JavaScript**, **Ruby**, **Go**, and more. I adapt quickly to new tools and frameworks.  
+- **Full-Stack Developer:** Experienced in designing and developing responsive, user-friendly websites and intuitive mobile applications.  
+- **Creative Problem Solver:** I thrive on tackling complex challenges with efficient and scalable solutions.  
+
+### 💻 My Passions:  
+- **App Development:** Building apps that merge functionality with aesthetics.  
+- **Web Design:** Crafting websites that deliver seamless user experiences.  
+- **Continuous Learning:** Exploring emerging technologies like **AI/ML**, **blockchain**, and **cloud computing**.  
+
+### 🌱 Currently Learning:  
+I'm diving deeper into **DevOps practices**, mastering **Docker/Kubernetes**, and sharpening my skills in **cybersecurity** to stay ahead in this dynamic field.  
+
+### 📬 Let’s Connect!  
+If you're looking for a driven and versatile developer to join your team, feel free to reach out!  
+- **Email:** your.email@example.com  
+- **Portfolio:** [your-portfolio-link](#)  
+- **LinkedIn:** [linkedin.com/in/your-profile](#)  
+
+---
+
+Feel free to customize this further with any specific interests, tools, or achievements you'd like to highlight!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raf1dhasan&label=Profile%20views&color=0e75b6&style=flat" alt="raf1dhasan" /> </p>
 
