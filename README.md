@@ -5,19 +5,19 @@
 ---
 I’m a Bachelor of Computing Science graduate from Thompson Rivers University, British Columbia, Canada. I’m passionate about building reliable, scalable software solutions and applying technology to solve real-world problems. I’m currently seeking full-time opportunities as a Software Developer where I can contribute, learn, and grow.
  
-🚀 What I Do
+###🚀 What I Do
 • Develop full-stack web and application-based solutions  
 • Write clean, maintainable, and efficient code  
 • Solve complex problems using data structures and algorithms  
 • Collaborate in team-based and agile environments  
 
-💻 Technical Skills
+###💻 Technical Skills
 • Programming Languages: Python, Java, C++, JavaScript  
 • Web Development: HTML, CSS, REST APIs, Responsive Design  
 • Databases & Tools: SQL, Firebase, Git, GitHub  
 • DevOps & Cloud (Learning): Docker, Kubernetes, CI/CD  
 
-🌱 Currently Improving
+###🌱 Currently Improving
 I’m expanding my skills in DevOps, containerization, cloud computing, and cybersecurity fundamentals, while continuing to explore modern software engineering practices and AI/ML concepts.  
 
 ### 📬 Let’s Connect!  
