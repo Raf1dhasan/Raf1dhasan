@@ -3,7 +3,7 @@
 
 
 ---
-
+I’m a Bachelor of Computing Science graduate from Thompson Rivers University, British Columbia, Canada. I’m passionate about building reliable, scalable software solutions and applying technology to solve real-world problems. I’m currently seeking full-time opportunities as a Software Developer where I can contribute, learn, and grow.
  
 🚀 What I Do
 • Develop full-stack web and application-based solutions  
