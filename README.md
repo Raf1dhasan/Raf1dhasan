@@ -5,23 +5,23 @@
 ---
 
  
-I'm a **4th-year Bachelor of Computing Science student** at **Thompson Rivers University**, British Columbia, Canada. I'm passionate about leveraging technology to solve real-world problems and am actively seeking **co-op opportunities** to contribute to innovative projects while expanding my professional expertise.
+🚀 What I Do
+• Develop full-stack web and application-based solutions  
+• Write clean, maintainable, and efficient code  
+• Solve complex problems using data structures and algorithms  
+• Collaborate in team-based and agile environments  
 
-### 🌟 What I Bring to the Table:  
-- **Programming Polyglot:** Proficient in a wide array of programming languages including **Python**, **Java**, **C++**, **JavaScript**, **HTML**, **CSS**, and more. I adapt quickly to new tools and frameworks.  
-- **Full-Stack Developer:** Experienced in designing and developing responsive, user-friendly websites and intuitive mobile applications.  
-- **Creative Problem Solver:** I thrive on tackling complex challenges with efficient and scalable solutions.  
+💻 Technical Skills
+• Programming Languages: Python, Java, C++, JavaScript  
+• Web Development: HTML, CSS, REST APIs, Responsive Design  
+• Databases & Tools: SQL, Firebase, Git, GitHub  
+• DevOps & Cloud (Learning): Docker, Kubernetes, CI/CD  
 
-### 💻 My Passions:  
-- **App Development:** Building apps that merge functionality with aesthetics.  
-- **Web Design:** Crafting websites that deliver seamless user experiences.  
-- **Continuous Learning:** Exploring emerging technologies like **AI/ML**, **blockchain**, and **cloud computing**.  
-
-### 🌱 Currently Learning:  
-I'm diving deeper into **DevOps practices**, mastering **Docker/Kubernetes**, and sharpening my skills in **cybersecurity** to stay ahead in this dynamic field.  
+🌱 Currently Improving
+I’m expanding my skills in DevOps, containerization, cloud computing, and cybersecurity fundamentals, while continuing to explore modern software engineering practices and AI/ML concepts.  
 
 ### 📬 Let’s Connect!  
-If you're looking for a driven and versatile developer to join your team, feel free to reach out!  
+If you’re looking for a motivated graduate developer for a full-time role, feel free to reach out.
 - **Email:** rafidhasan202@gmail.com  
 - **Portfolio:** https://rafidhasan.com
 - **LinkedIn:** https://www.linkedin.com/in/-rafidhasan 
